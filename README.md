@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+```javascript
+<script src="https://tryhackme.com/badge/1631225"></script>
+```
