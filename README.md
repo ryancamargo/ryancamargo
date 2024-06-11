@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on some basic Java projects
-- 🌱 I’m currently learning Data Structures in Java
+- 🌱 I’m currently learning JavaFX
 - 💬 Ask me about anything ;)
 - 👯 I’m looking to collaborate on Open Source projects using Python/Java
 
