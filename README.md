@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some basic Java projects
-- 🌱 I’m currently learning JavaFX
-- 💬 Ask me about anything ;)
-- 👯 I’m looking to collaborate on Open Source projects using Python/Java
+- 🔭 I’m currently working on some JavaFX projects
+- 🌱 I’m currently learning Spring
+- 💬 Please feel free to ask me about anything ;)
+- 👯 I’m looking to collaborate on Open Source projects using Python/Java/C
 
 You can check my learning progress using [roadmap.sh](https://roadmap.sh/)
 
