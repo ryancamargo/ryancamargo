@@ -22,6 +22,7 @@ You can check my learning progress using [roadmap.sh](https://roadmap.sh/)
 [![roadmap.sh](https://roadmap.sh/card/tall/659d9e7cae22c125234e8643?variant=dark)](https://roadmap.sh)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=ryancamargo&theme=dark&show_icons=true)](https://github.com/ryancamargo)
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancamargo&theme=dark)](https://github.com/ryancamargo)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancamargo&theme=dark&show_icons=true)](https://github.com/ryancamargo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancamargo&theme=dark&show_icons=true&layout=compact)](https://github.com/ryancamargo)
