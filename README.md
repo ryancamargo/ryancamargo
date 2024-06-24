@@ -7,21 +7,13 @@
 <!-- ## Languages and Tools -->
 
 ## GitHub stats 👩‍💻
-<div>
-  <a href="https://github.com/ryancamargo">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancamargo&theme=dark&show_icons=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancamargo&theme=dark&show_icons=true&layout=compact"/> 
-  </center>
-</div>
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancamargo&theme=dark&show_icons=true)](https://github.com/ryancamargo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancamargo&theme=dark&show_icons=true&layout=compact)](https://github.com/ryancamargo)
 
 
 ## Reach me 📱
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryancamargo/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/ryancamargo)
-
 
 
 <!--
