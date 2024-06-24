@@ -6,7 +6,7 @@
 
 <!-- ## Languages and Tools -->
 
-## GitHub Stats 👩‍💻
+## GitHub stats 👩‍💻
 <div>
   <a href="https://github.com/ryancamargo">
   <center>
