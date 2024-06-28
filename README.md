@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-- Software Engineering Student at the University of Franca - UNIFRAN.
-- Alura ONE Oracle Next Education Student.
-- Passionate about Programming, Web Development, Security and AI.
+:computer_mouse: Software Engineering Student at the University of Franca - UNIFRAN.  
+:floppy_disk: Alura ONE Oracle Next Education Student.  
+:desktop_computer: Passionate about Programming, Web Development, Security and AI.
 
 <!-- ## Languages and Tools -->
 
