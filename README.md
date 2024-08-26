@@ -1,4 +1,4 @@
-### Hi there! 👋
+![hellothere](https://github.com/user-attachments/assets/b915a3c7-b9fc-473a-bf7e-700159f87173)
 
 :computer_mouse: Software Engineering Student at the University of Franca - UNIFRAN.  
 :floppy_disk: Alura ONE Oracle Next Education Student.  
