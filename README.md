@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻 About Me</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats</h3>
+<h3 align="center">🔥 My Stats</h3>
 
 ###
 
@@ -80,9 +80,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ryancamargo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://www.x.com/ryancamargo_"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-  <a href="https://hackerrank.com/profile/ryancamargo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
+  <a href="https://www.linkedin.com/in/ryancamargo" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.x.com/ryancamargo_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a href="https://hackerrank.com/profile/ryancamargo" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
 </div>
 
 ###
