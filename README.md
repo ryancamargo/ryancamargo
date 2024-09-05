@@ -1,23 +1,91 @@
-![hellothere](https://github.com/user-attachments/assets/b915a3c7-b9fc-473a-bf7e-700159f87173)
+<div align="center">
+  <img height="" src="https://i.postimg.cc/J0NRxvJF/obiwan.gif"  />
+</div>
 
-:computer_mouse: Software Engineering Student at the University of Franca - UNIFRAN.  
-:floppy_disk: Alura ONE Oracle Next Education Student.  
-:desktop_computer: Passionate about Programming, Web Development, Security and AI.
+###
 
-<!-- ## Languages and Tools -->
+<h3 align="center">👩‍💻  About Me</h3>
 
-## GitHub stats 👩‍💻
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancamargo&theme=dark&show_icons=true)](https://github.com/ryancamargo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancamargo&theme=dark&show_icons=true&layout=compact)](https://github.com/ryancamargo)
+###
 
-## Alura Oracle Next Education Badges :medal_sports:
-<a href="https://i.ibb.co/3T8tQrH/Prancheta-3.png">
-  <img src="https://i.ibb.co/3T8tQrH/Prancheta-3.png" alt="Badge" width="200" height="200">
-</a>
+<p align="center">🖱️ Software Engineering Student at the University of Franca - UNIFRAN.<br>💾 Alura ONE Oracle Next Education Student.<br>🖥️ Passionate about Programming, Web Development, Security and AI.</p>
 
-## Reach me 📱
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryancamargo/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/ryancamargo)
+###
+
+<h3 align="center">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="center">🔥   My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryancamargo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryancamargo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ryancamargo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="center">🏅 Alura Oracle Next Education Badges</h3>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/RCnGP9Y8/first-badge.png"  />
+</div>
+
+###
+
+<h3 align="center">📲 Get in touch</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ryancamargo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://www.x.com/ryancamargo_"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a href="https://hackerrank.com/profile/ryancamargo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
+</div>
+
+###
 
 
 <!--
