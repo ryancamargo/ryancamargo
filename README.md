@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://i.postimg.cc/J0NRxvJF/obiwan.gif"  />
+  <img width="370" src="https://i.postimg.cc/J0NRxvJF/obiwan.gif"  />
 </div>
 
 ###
@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ryancamargo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ryancamargo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -72,7 +72,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/RCnGP9Y8/first-badge.png"  />
+  <img height="150" src="https://i.postimg.cc/RCnGP9Y8/first-badge.png"  />
 </div>
 
 ###
@@ -82,25 +82,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ryancamargo" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://www.x.com/ryancamargo_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-  <a href="https://hackerrank.com/profile/ryancamargo" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
+  <a href="https://www.linkedin.com/in/ryancamargo" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  /></a>
+  <a href="https://www.x.com/ryancamargo_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  /></a>
+  <a href="https://hackerrank.com/profile/ryancamargo" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" height="30" alt="hackerrank logo"  /></a>
 </div>
 
 ###
-
-
-<!--
-**ryancamargo/ryancamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
