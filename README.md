@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🖱️ Software Engineering Student at the University of Franca - UNIFRAN.<br>💾 Alura ONE Oracle Next Education Student.<br>🖥️ Passionate about Programming, Web Development, Security and AI.</p>
+<p align="center">🖱️ Systems Analysis and Development Student - FIAP.<br>🖥️ Passionate about Programming, Web Development, Security and AI.</p>
 
 ###
 
@@ -63,17 +63,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ryancamargo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="center">🏅 Alura Oracle Next Education Badges</h3>
-
-###
-
-<div align="center">
-  <img height="150" src="https://i.postimg.cc/RCnGP9Y8/first-badge.png"  />
-  <img height="150" src="https://i.postimg.cc/x8c523Xy/Badge-Conversor.png"  />
 </div>
 
 ###
