@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🖱️ Systems Analysis and Development Student - FIAP.<br>🖥️ Passionate about Programming, Web Development, Security and AI.</p>
+<p align="center">🖱️ Self-taught developer (MIT OpenCourseWare, roadmap.sh, hands-on projects).<br>🖥️ Passionate about Programming, Web Development, Security and AI.</p>
 
 ###
 
